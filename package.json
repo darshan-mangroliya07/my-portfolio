@@ -1,0 +1,24 @@
+{
+    "name": "my-portfolio",
+    "version": "1.0.0",
+    "description": "College Assignments",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/darshan5640/my-portfolio.git"
+    },
+    "author": "Darshan Mangroliya",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/darshan5640/my-portfolio/issues"
+    },
+    "homepage": "https://github.com/darshan5640/my-portfolio#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-handlebars": "^5.3.2",
+        "nodemon": "^2.0.12"
+    }
+}
