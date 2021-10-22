@@ -1,6 +1,10 @@
 # my-portfolio
 Simple web for personal portfolio using node.js, express and bootstrap theme https://startbootstrap.com/theme/freelancer
 
+## Live Preview
+
+https://darshanmangroliya.herokuapp.com/
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
